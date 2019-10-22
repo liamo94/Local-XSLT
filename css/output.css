@@ -1,0 +1,31 @@
+h1 {
+  text-align: center;
+}
+.componentContainer {
+  padding: 20px;
+  width: 1000px;
+  margin: 0 auto;
+}
+.componentContainer P,
+.componentContainer h1,
+.componentContainer h2,
+.componentContainer h3 {
+  font-family: 'arial';
+}
+.componentContainer h1,
+.componentContainer h2,
+.componentContainer h3 {
+  color: #344b5c;
+}
+.componentContainer ul li {
+  font-family: 'arial';
+}
+.information {
+  width: 40%;
+  border: 1px solid grey;
+  padding: 5px;
+  border-radius: 10px;
+}
+body {
+  margin: 0;
+}

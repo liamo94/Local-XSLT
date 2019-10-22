@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<Properties>
+    <Data>
+        <!-- <Result> -->
+            <!-- <ContentList> -->
+                <!-- <ContentItem> -->
+                    <YourComponent>
+						<information>
+							<name>You component (from XML file)</name>
+							<created>14/12/2017</created>
+						</information>
+					</YourComponent>
+<!-- 
+                </ContentItem> -->
+            <!-- </ContentList> -->
+        <!-- </Result> -->
+    </Data>
+</Properties>
