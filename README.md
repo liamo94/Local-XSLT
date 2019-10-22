@@ -1,4 +1,4 @@
-#XSLT local development
+# XSLT local development
 
 This project will allow you to transform XML files into html, using XSL.
 
